@@ -1,5 +1,10 @@
 @import "colors.less";
 
+*::selection {
+    color: white;
+    background: @text-selection-color;
+}
+
 *,
 *:after,
 *:before {
@@ -28,10 +33,11 @@ body {
 
 a {
   font-weight: 700;
-  color: @darker-fg-color;
+  color: @fg-color;
   text-decoration: none;
   &:focus,
   &:hover {
+    color: @link-color;
     text-decoration: underline;
   }
 }
@@ -40,12 +46,13 @@ p {
   margin: 1.6rem 0 1.6rem 0;
   a {
     font-weight: 400;
-    color: @darker-fg-color;
+    color: @fg-color;
     text-decoration: underline;
     text-underline-position: under;
     &:focus,
     &:hover {
       color: @link-color;
+      text-decoration-color: @link-color;
     }
   }
 }
@@ -320,7 +327,7 @@ img {
   height: auto;
   border-radius: 50%;
   @media only screen and (max-device-width: 768px) {
-    width: 200px;
+    width: 400px;
   }
 }
 
@@ -466,7 +473,7 @@ a:before, a:after {
   display: inline-block;
   width: 0;
   height: 2px;
-  background: #F30034;
+  background: @link-underline-color;
   transition: 0.5s;
 }
 

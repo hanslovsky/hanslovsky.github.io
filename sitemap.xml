@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hanslovsky.github.io/projects/paintera/</loc>
+    <loc>--verbose/projects/paintera/</loc>
     <lastmod>2019-11-17T20:04:48-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hanslovsky.github.io/</loc>
+    <loc>--verbose/</loc>
     <lastmod>2019-11-17T20:04:48-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hanslovsky.github.io/projects/</loc>
+    <loc>--verbose/projects/</loc>
     <lastmod>2019-11-17T20:04:48-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hanslovsky.github.io/about/</loc>
+    <loc>--verbose/about/</loc>
     <lastmod>2019-11-17T19:55:15-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hanslovsky.github.io/home/</loc>
+    <loc>--verbose/home/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hanslovsky.github.io/categories/</loc>
+    <loc>--verbose/categories/</loc>
   </url>
   
   <url>
-    <loc>https://hanslovsky.github.io/tags/</loc>
+    <loc>--verbose/tags/</loc>
   </url>
   
 </urlset>
