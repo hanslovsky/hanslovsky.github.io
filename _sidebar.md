@@ -2,4 +2,4 @@
  * [Blog](blog/blog.md)
    * [2021-05-23: GitHub Actions for Releases](blog/2021/05-23.md)
    * [2021-06-29: Buying a Home in the hot DMV Market](blog/2021/06-29.md)
-   * [2022-04-01: Kotlin Extension Function resolution: Generics and Star Projection](blog/2022/04-01.md)
+   * [2022-04-01: Kotlin Extension Function Resolution: Generics and Star Projection](blog/2022/04-01.md)
